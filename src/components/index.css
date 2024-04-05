@@ -1,0 +1,22 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5px;
+}
+.description {
+  font-size: 20;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.image {
+  height: 30px;
+  width: 30px;
+}
+.img-container {
+  padding: 10px;
+}
